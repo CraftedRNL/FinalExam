@@ -1,0 +1,138 @@
+.backimg {
+   background-image: url("../img/aidan-hancock-8RU4OuA6Yug-unsplash.png");
+    
+
+}
+.navbar {
+    background: rgb(138,3,3);
+    background: linear-gradient(0deg, rgba(138,3,3,0) 0%, rgba(255,225,186,0) 100%) !important;
+
+}
+.btn {
+    border-radius: 0%;
+    background-color:   #10C9C3;
+}
+.big {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+.secondhalf {
+    background-image: url("../img/stil-sHGyGynyD5Y-unsplash.png");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.onehalf {
+    background-color: #F5F5F5;
+    height: 80vh;
+}
+.margin {
+    margin: 20vh;
+    margin-top: 25vh;
+}
+
+
+.skills .progress {
+    height: 60px;
+    display: block;
+    background: none;
+    border-radius: 0;
+  }
+  
+  .skills .progress .skill {
+    padding: 10px 0;
+    margin: 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #45505b;
+  }
+  
+  .skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+  }
+  
+  .skills .progress-bar-wrap {
+    background: #f2f3f5;
+    
+  }
+  
+  .skills .progress-bar {
+    width: 1px;
+    height: 10px;
+    transition: 0.9s;
+    background-color: blue;
+  }
+  @media screen and (max-width: 768px) {
+    [data-aos-delay] {
+      transition-delay: 0 !important;
+    }
+  }
+.work {
+    background-color: #10C9C3;
+}
+.inline {
+    display: inline;
+    color: white;
+}
+.stuff {
+    height: 45vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lemon {
+
+    background-image: url("../img/Package\ Design\ Lemon\ Tea\ -\ fabian\ krotzer\ Frame.png");
+}
+.vanilla {
+
+    background-image: url("../img/Package\ Design\ Vanilla\ Powder\ -\ fabian\ krotzer\ Frame.png");
+}
+.coco {
+
+    background-image: url("../img/Package\ Design\ Coconut\ -\ fabian\ krotzer\ Frame.png");
+}
+.komaso {
+    background-image: url("../img/Package\ Design\ Komaso\ -\ fabian\ krotzer\ Frame.png");
+}
+.spices {
+    background-image: url("../img/Package\ Design\ Spices\ -\ fabian\ krotzer\ Frame.png");
+}
+.salad {
+    background-image: url("../img/Package\ Design\ Salad\ -\ fabian\ krotzer\ Frame.png");
+}
+.olive {
+   background-image: url("../img/Package\ Design\ Olive\ Oil\ -\ fabian\ krotzer\ Frame.png");
+}
+.seeweed {
+    background-image: url("../img/Package\ Design\ Seaweed\ -\ fabian\ krotzer\ Frame.png");
+}
+.margin2 {
+    margin: 20vh;
+    background-color: gray;
+}
+.inline2 {
+    display: inline;
+    color: rgb(0, 0, 0);
+}
+.big2 {
+    height: 50vh;
+}
+.white {
+    color: white;
+}
+.margin3 {
+    justify-content: center;
+    align-items: center;
+}
